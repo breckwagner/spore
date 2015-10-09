@@ -1,10 +1,9 @@
 {
   "name": "spore",
   "main": "./lib/spore",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "It will be a suprise",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "spore:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
